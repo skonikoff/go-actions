@@ -4,16 +4,21 @@
   
   <url>
     <loc>/go-actions/</loc>
-    <lastmod>2020-11-09T17:39:21+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/go-actions/posts/my-first-post/</loc>
-    <lastmod>2020-11-09T17:39:21+00:00</lastmod>
+    <lastmod>2020-11-09T17:59:21+00:00</lastmod>
   </url>
   
   <url>
     <loc>/go-actions/posts/</loc>
+    <lastmod>2020-11-09T17:59:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/go-actions/posts/a-second-post/</loc>
+    <lastmod>2020-11-09T17:59:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/go-actions/posts/my-first-post/</loc>
     <lastmod>2020-11-09T17:39:21+00:00</lastmod>
   </url>
   
