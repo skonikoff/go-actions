@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/go-actions/categories/</loc>
+    <loc>/go-actions/</loc>
+    <lastmod>2020-11-09T17:39:21+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/go-actions/</loc>
+    <loc>/go-actions/posts/my-first-post/</loc>
+    <lastmod>2020-11-09T17:39:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/go-actions/posts/</loc>
+    <lastmod>2020-11-09T17:39:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/go-actions/categories/</loc>
   </url>
   
   <url>
